@@ -1,1 +1,1 @@
-This is a Barcode Scanner App. Well, this is only supported in a android device. With the us of this app, you can scan any barcode and you will get its link.
+This is a Barcode Scanner App. Well, this is only supported in a android device. If you are having an expo app in your android device, then you can open this app there and you can just scan any barcode and you will get its link there.
